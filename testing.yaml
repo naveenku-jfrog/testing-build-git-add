@@ -1,0 +1,8 @@
+version: 1
+issues:
+  trackerName: JIRA-12345
+  regexp: ([A-Z]+)-(\d+)
+  keyGroupIndex: 1
+  summaryGroupIndex: 2
+  trackerUrl: https://my-jira.com/issues
+  aggregate: false
