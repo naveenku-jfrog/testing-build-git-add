@@ -1,6 +1,6 @@
 version: 1
 issues:
-  trackerName: JIRA-9483
+  trackerName: JIRA-94831
   regexp: ([A-Z]+)-(\d+)
   keyGroupIndex: 1
   summaryGroupIndex: 2
